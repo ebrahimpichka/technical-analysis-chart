@@ -29,6 +29,8 @@ An interactive candle-stick chart for technical analysis of a financial asset us
 ```
 ## example
 
+![chart](https://github.com/ebrahimpichka/technical-analysis-chart/blob/main/img.png)
+
 
 ## TODO:
  <ul>
