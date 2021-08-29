@@ -218,12 +218,12 @@ if __name__ == '__main__':
 
     # SMA parameters
     plot_sma = False
-    sma = [(45,0),(22,0)]
+    sma = [45,22]
     sma_on = 'Close'
 
     # EMA parameters
     plot_ema = True
-    ema = [(45,0),(22,0)]
+    ema = [45,22]
     ema_on = 'Close'
 
     # RSI parameters
